@@ -20,11 +20,12 @@ I am currently on the job market and working as a postdoctoral researcher in the
 - Optimization
 
 ## Education
-**Ph.D. in Computer Science**, University of Helsinki  
+**Ph.D. in Computer Science**, University of Helsinki<br>
 2021 – Present
 
-**M.Sc. in Electrical Engineering**, University of Oulu
+**M.Sc. in Electrical Engineering**, University of Oulu<br>
 2018 – 2020
 
-**B.Sc. in Electronics and Telecommunications Eng**, University of Moratuwa  
+**B.Sc. in Electronics and Telecommunications Engineering**, University of Moratuwa<br>
 2011 – 2016
+
