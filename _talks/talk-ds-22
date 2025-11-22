@@ -1,0 +1,15 @@
+---
+title: "Recurrent Segmentation Meets Block Models in Temporal Networks"
+collection: talks
+type: "Talk"
+permalink: /talk/2022-recurrent-segmentation-blockmodels
+venue: "International Conference on Discovery Science 2022"
+location: "Montpellier, France"
+date: 2022-10-12
+---
+
+**Speaker:** W. A. C. N. Wickrama Arachchi  
+**Event:** International Conference on Discovery Science (DS 2022), Montpellier, France  
+**Type:** Oral presentation
+
+Talk on integrating recurrent segmentation with block models to analyze temporal networks.
