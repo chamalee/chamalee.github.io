@@ -10,6 +10,6 @@ citation: "Chamalee Wickrama Arachchi and Nikolaj Tatti. (2023). \"Node ranking 
 ---
 A study on ranking nodes in labeled networks.
 
-[Download paper here](http://chamalee.github.io/files/paper1.pdf)
+[Download paper here](http://chamalee.github.io/files/paper-4.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
