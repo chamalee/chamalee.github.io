@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+*  Ph.D in Data mining, University of Helsinki, 2025
+* M.Sc. in Wireless Communications Engineering, Oulu University, 2019
+* B.Sc. in Electronics and Telecommunications Engineering, University of Moratuwa, 2016
 
 Work experience
 ======
