@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant: Introduction to Machine Learning"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+venue: "University of Helsinki, Department of Computer Science"
+date: 2023-09-01
+location: "Helsinki, Finland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as a Teaching Assistant for the *Introduction to Machine Learning* course in Fall 2023.  
+Responsibilities included organizing exercise sessions, providing hands-on support, evaluating submissions, and helping students understand core ML concepts.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Activities
+- Assisted coding and theory exercise sessions  
+- Provided assignment grading and feedback  
+- Assisted students with ML algorithms and implementations  
