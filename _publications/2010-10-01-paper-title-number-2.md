@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 2"
+title: "Jaccard-constrained dense subgraph discovery"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-jaccard-dense-subgraph
+excerpt: "Dense subgraph discovery with Jaccard constraints."
+date: 2024-01-01
+venue: "Machine Learning"
+paperurl: ""
+citation: "Chamalee Wickrama Arachchi and Nikolaj Tatti. (2024). \"Jaccard-constrained dense subgraph discovery.\" <i>Machine Learning</i>: 1–23."
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Dense subgraph discovery with Jaccard constraints.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://chamalee.github.io/files/paper-1 (1).pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation:  
+Chamalee Wickrama Arachchi and Nikolaj Tatti. (2024). *Jaccard-constrained dense subgraph discovery.* *Machine Learning*: 1–23.
