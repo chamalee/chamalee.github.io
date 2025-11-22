@@ -9,3 +9,5 @@ location: "Porto, Portugal"
 ---
 
 Oral presentation of the work *Jaccard-constrained Dense Subgraph Discovery* at the International Discovery Science Conference (DS 2023), Porto, Portugal.
+
+[Download the slides here (GitHub)](http://chamalee.github.io/files/jac-p.pdf)
