@@ -12,4 +12,4 @@ citation: "Chamalee Wickrama Arachchi, Iiro Kumpulainen, and Nikolaj Tatti. (202
 
 Dense subgraph discovery under strong triadic closure constraints.
 
-[Download paper (GitHub)](http://chamalee.github.io/files/paper3.pdf) 
+[Download paper (GitHub)](http://chamalee.github.io/files/paper-3.pdf) 
