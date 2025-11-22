@@ -82,31 +82,32 @@ analytics:
 author:
   name             : "Chamalee Wickrama Arachchi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  bio              : "Researcher in data mining"
+  location         : "Helsinki"
+  employer         : "University of Helsinki"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=S35GIywAAAAJ&hl=en"
+  email            : "chamalee.wickramaarachch@helsinki.fi"
+  researchgate     :  
+  uri              :"https://researchportal.helsinki.fi/en/persons/wickrama-arachchige-chama-wickrama-arachchi
+"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/chamalee"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7200-7066"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
