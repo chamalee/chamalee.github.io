@@ -10,7 +10,6 @@ redirect_from:
 
 I am currently on the job market and working as a postdoctoral researcher in the Department of Computer Science at the University of Helsinki. I am supervised by Professor Nikolaj Tatti in the Data Analytics and Cyber Security group. My PhD, also supervised by Professor Tatti, focused on data mining in complex networks. My doctoral thesis is titled “Methods for Finding Structures in Feature-rich Graph Networks.”
 
-
 ## Interests
 - Artificial Intelligence
 - Machine Learning
@@ -20,12 +19,12 @@ I am currently on the job market and working as a postdoctoral researcher in the
 - Optimization
 
 ## Education
-**Ph.D. in Computer Science**, University of Helsinki<br>
+**Ph.D. in Computer Science**, University of Helsinki, Finland<br>
 2021 – Present
 
-**M.Sc. in Electrical Engineering**, University of Oulu<br>
+**M.Sc. in Electrical Engineering**, University of Oulu, Finland<br>
 2018 – 2020
 
-**B.Sc. in Electronics and Telecommunications Engineering**, University of Moratuwa<br>
+**B.Sc. in Electronics and Telecommunications Engineering**, University of Moratuwa, Sri Lanka<br>
 2011 – 2016
 
