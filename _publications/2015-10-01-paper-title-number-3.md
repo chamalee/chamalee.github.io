@@ -12,5 +12,3 @@ Combining recurrent segmentation with block models for temporal networks.
 
 [Download paper here](http://chamalee.github.io/files/paper-5.pdf))
 
-Recommended citation:  
-Chamalee Wickrama Arachchi and Nikolaj Tatti. (2024). *Recurrent segmentation meets block models in temporal networks.* *Machine Learning*: 1–31.
