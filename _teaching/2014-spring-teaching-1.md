@@ -8,7 +8,7 @@ location: "Helsinki, Finland"
 ---
 
 Served as a Teaching Assistant for the *Introduction to Artificial Intelligence* course in Fall 2021.  
-Responsibilities included guiding exercises, assisting students during practical sessions, evaluating assignments, and supporting course instruction.
+Responsibilities included guiding exercises, assisting students during exercise sessions, evaluating assignments, and supporting course instruction.
 
 ## Activities
 - Led weekly exercise sessions  
