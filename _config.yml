@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chamalee Wickrama Arachchi"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Researcher in data mining"
   location         : "Helsinki"
   employer         : "University of Helsinki"
@@ -89,8 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=S35GIywAAAAJ&hl=en"
   email            : "chamalee.wickramaarachch@helsinki.fi"
   researchgate     :  
-  uri              :"https://researchportal.helsinki.fi/en/persons/wickrama-arachchige-chama-wickrama-arachchi
-"
+  uri: "https://researchportal.helsinki.fi/en/persons/wickrama-arachchige-chama-wickrama-arachchi"
   bitbucket        :
   codepen          :
   dribbble         :
