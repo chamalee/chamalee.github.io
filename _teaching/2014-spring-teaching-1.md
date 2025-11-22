@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant: Introduction to Artificial Intelligence"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 venue: "University of Helsinki, Department of Computer Science"
 date: 2021-09-01
 location: "Helsinki, Finland"
