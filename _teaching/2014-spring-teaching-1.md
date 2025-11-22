@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: Introduction to Artificial Intelligence"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "graduate course"
+venue: "University of Helsinki, Department of Computer Science"
+date: 2021-09-01
+location: "Helsinki, Finland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as a Teaching Assistant for the *Introduction to Artificial Intelligence* course in Fall 2021.  
+Responsibilities included guiding exercises, assisting students during practical sessions, evaluating assignments, and supporting course instruction.
 
-Heading 1
-======
+## Activities
+- Led weekly exercise sessions  
+- Provided feedback and grading  
+- Supported students during problem-solving and project work  
 
-Heading 2
-======
-
-Heading 3
-======
