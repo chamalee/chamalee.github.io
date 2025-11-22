@@ -8,7 +8,7 @@ location: "Helsinki, Finland"
 ---
 
 Served as a Teaching Assistant for the *Introduction to Machine Learning* course in Fall 2023.  
-Responsibilities included organizing exercise sessions, providing hands-on support, evaluating submissions, and helping students understand core ML concepts.
+Responsibilities included providing hands-on support during exercise sessions, evaluating submissions, and helping students understand core ML concepts.
 
 ## Activities
 - Assisted coding and theory exercise sessions  
