@@ -1,0 +1,15 @@
+---
+title: "Jaccard-constrained Dense Subgraph Discovery"
+collection: talks
+type: "Talk"
+permalink: /talk/2023-jaccard-dense-subgraph-discovery
+venue: "International Conference on Discovery Science 2023"
+location: "Porto, Portugal"
+date: 2023-10-10
+---
+
+**Speaker:** W. A. C. N. Wickrama Arachchi  
+**Event:** International Conference on Discovery Science (DS 2023), Porto, Portugal  
+**Type:** Oral presentation
+
+Presented our work on Jaccard-constrained dense subgraph discovery and its applications in graph mining.
