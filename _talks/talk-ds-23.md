@@ -6,6 +6,7 @@ permalink: /talks/2023-jaccard-dense-subgraph
 venue: "Discovery Science Conference 2023"
 date: 2023-10-10
 location: "Porto, Portugal"
+slides_url: "http://chamalee.github.io/files/jac-p.pdf"
 ---
 
 Oral presentation of the work *Jaccard-constrained Dense Subgraph Discovery* at the International Discovery Science Conference (DS 2023), Porto, Portugal.
