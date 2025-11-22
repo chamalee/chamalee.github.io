@@ -12,5 +12,3 @@ Dense subgraph discovery with Jaccard constraints.
 
 [Download paper here](http://chamalee.github.io/files/paper-1 (1).pdf)
 
-Recommended citation:  
-Chamalee Wickrama Arachchi and Nikolaj Tatti. (2024). *Jaccard-constrained dense subgraph discovery.* *Machine Learning*: 1–23.
