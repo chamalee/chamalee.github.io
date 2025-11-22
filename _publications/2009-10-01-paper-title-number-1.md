@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Node ranking in labeled networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2023-node-ranking-labeled-networks
+excerpt: "A study on ranking nodes in labeled networks."
+date: 2023-01-01
+venue: "SIAM International Conference on Data Mining (SDM)"
+paperurl: ""
+citation: "Chamalee Wickrama Arachchi and Nikolaj Tatti. (2023). \"Node ranking in labeled networks.\" <i>SIAM International Conference on Data Mining</i>."
 ---
-This paper is about the number 1. The number 2 is left for future work.
+A study on ranking nodes in labeled networks.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://chamalee.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
