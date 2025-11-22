@@ -9,3 +9,5 @@ location: "Montpellier, France"
 ---
 
 Oral presentation of the work *Recurrent Segmentation Meets Block Models in Temporal Networks* at the International Discovery Science Conference (DS 2022), Montpellier, France.
+
+[Download the slides here (GitHub)](http://chamalee.github.io/files/sbm-p.pdf)
