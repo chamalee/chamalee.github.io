@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the Department of Computer Science at the University of Helsinki. I am supervised by Professor Nikolaj Tatti from the Data Analytics and Cyber Security group. My PhD was supervised by Professor Nikolaj Tatti. My PhD thesis is titled “Methods for Finding Structures in Feature-rich Graph Networks”.
+I am currently on the job market and working as a postdoctoral researcher in the Department of Computer Science at the University of Helsinki. I am supervised by Professor Nikolaj Tatti in the Data Analytics and Cyber Security group. My PhD, also supervised by Professor Tatti, focused on data mining in complex networks. My doctoral thesis is titled “Methods for Finding Structures in Feature-rich Graph Networks.”
 
 
 ## Interests
