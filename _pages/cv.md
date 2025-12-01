@@ -56,11 +56,14 @@ redirect_from:
 ### **Databases**
 - SQL, Oracle SQL, MongoDB, PostgreSQL
 
+### **Frontend**
+- HTML, CSS, Javascript, EmberJS
+
 ### **Cloud and Data Visualization**
-- AWS, Azure, Power BI, Tableau, Snowflake
+- AWS, Power BI, Tableau
 
 ### **Other**
-- Excel, PowerPoint, Automation scripting, Data pipelines
+- Excel, PowerPoint, Automation scripting, data pipelines
 
 ---
 
