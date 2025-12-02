@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-- **Ph.D. in Computer Science**, University of Helsinki, 2020–2025  
+- **Ph.D. in Computer Science**, University of Helsinki, 2021–2025  
   *Specialization: Data Mining & Machine Learning*  
   Experience in graph algorithms, dense subgraph discovery, temporal networks, and optimization.
 
