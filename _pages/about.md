@@ -20,7 +20,7 @@ I am currently on the job market and working as a postdoctoral researcher in the
 
 ## Education
 **Ph.D. in Computer Science**, University of Helsinki, Finland<br>
-2021 – Present
+2021 – 2025
 
 **M.Sc. in Electrical Engineering**, University of Oulu, Finland<br>
 2018 – 2020
